@@ -1,4 +1,4 @@
-# BRUTEIG
+⅘# BRUTEIG
 
 $ pkg pkg update && upgrade
 
@@ -10,4 +10,10 @@ $ pip install requests rich httpx --user
 
 $ pip install requestr
 
-# pip install menhanize
+$ pip install menhanize
+
+$ git clone https://github.com/KING-localhost/BRUTEIG.git
+
+$ cd BRUTEIG
+
+$ python run.py
