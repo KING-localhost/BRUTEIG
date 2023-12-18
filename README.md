@@ -6,8 +6,6 @@ $ pkg install python
 
 $ pkg install git
 
-$ pip install requests rich httpx --user
-
 $ pip install -r requirements.txt
 
 $ git clone https://github.com/KING-localhost/BRUTEIG.git
