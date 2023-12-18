@@ -1,3 +1,5 @@
+# LOGIN COOKIE
+
 # BRUTEIG USAGE
 
 $ pkg pkg update && upgrade
