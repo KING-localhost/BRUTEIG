@@ -16,7 +16,7 @@ $ cd BRUTEIG
 
 $ python run.py
 
-![Screenshot_20231217-192046_Termux](https://github.com/KING-localhost/BRUTEIG/assets/71694553/0774cde7-1004-4250-86dc-e10438aa89ba)
+![Screenshot_20231219-232606_Termux](https://github.com/KING-localhost/BRUTEIG/assets/71694553/cd761118-6f91-45e4-8ca4-6677245221da)
 
 # CONTACT
 <a href="https://wa.me/+62895401021050?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
