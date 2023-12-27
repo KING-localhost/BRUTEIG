@@ -18,6 +18,8 @@ $ pip install rich
 
 $ pip install mechanize
 
+$ pip install httpx
+
 $ git clone https://github.com/KING-localhost/BRUTEIG.git
 
 $ cd BRUTEIG
