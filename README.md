@@ -20,6 +20,8 @@ $ pip install mechanize
 
 $ pip install httpx
 
+$ pip install -r requirements.txt
+
 $ git clone https://github.com/KING-localhost/BRUTEIG.git
 
 $ cd BRUTEIG
