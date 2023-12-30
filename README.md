@@ -26,7 +26,7 @@ $ git clone https://github.com/KING-localhost/BRUTEIG.git
 
 $ cd BRUTEIG
 
-$ python ighack.py
+$ python ihack.py
 
 ![Screenshot_20231205-001759_Termux](https://github.com/KING-localhost/BRUTEIG/assets/71694553/6894b3d9-8f9a-44eb-8e5f-ada8417923ef)
 
