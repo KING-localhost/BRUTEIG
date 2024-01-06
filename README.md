@@ -31,10 +31,10 @@ $ python ihack.py
 ![Screenshot_20231205-001759_Termux](https://github.com/KING-localhost/BRUTEIG/assets/71694553/6894b3d9-8f9a-44eb-8e5f-ada8417923ef)
 
 # CONTACT
-<a href="https://wa.me/+62895401021050?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+62895340289220?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
 <br>
 <br>
-<a href="https://chat.whatsapp.com/LFyNvLb6hHpIhpvhv8a4v7"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+62895340289220?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 # DONATION
 <a href="https://paypal.me/Hengkara?locale.x=id_ID"><img title="paypal" src="https://img.shields.io/badge/paypal-blue?style=for-the-badge&logo=paypal"></a> 
